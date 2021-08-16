@@ -1,0 +1,109 @@
+#nome {
+
+
+}
+
+nav {
+
+}
+
+li.em-linha {
+    display: inline;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #857e4d;
+}
+
+section#nome {
+    text-align: center;
+    color: #615b2d;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1#nome-restaurante {
+    border-bottom: solid #615b2d;
+    margin: 20px 0;
+}
+
+h1#titulo {
+    border-bottom: 1px dotted #615b2d;
+    margin: 20px 0;
+    color: #615b2d;
+    text-align: center;
+}
+
+div#principal {
+    width: 65%;
+    float: left;
+}
+
+aside#lateral {
+    float: right;
+    width: 30%;
+    border-left: 1px solid #615b2d;
+    padding: 0 10px
+}
+
+/* Parte Lateral da Página */
+aside#lateral h1 {
+    font-size: 2em;
+    color: #615b2d;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.borda-topo {
+    border-top: 1px dotted #615b2d;
+}
+
+aside#lateral h3 {
+    border-bottom: 1px dotted #615b2d;
+    font-size: 0.9em;
+    color: #615b2d;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+aside#lateral p {
+    font-size: 0.9em;
+    color: #615b2d;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.horarios {
+    font-size: 0.7em;
+    color: #615b2d;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+section#visao-geral {
+    
+}
+
+.borda-sobre {
+    border-top: 2px solid #615b2d;
+    margin-top: 40px;
+}
+
+div#principal p {
+    padding: 10px;
+}
+
+/* #menu {
+    width: 40%;
+    float: left;
+}
+
+#vinhos {
+    width: 40%;
+} */
