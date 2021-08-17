@@ -1,0 +1,54 @@
+#primeira-parte {
+    height: 300px;
+    width: 100%;
+    margin-top: 15px;
+    border-top: solid 2px #615b2d;
+}
+
+#segunda-parte {
+    height: 300px;
+    width: 100%;
+    margin-top: 15px;
+    border-top: solid 2px #615b2d;
+}
+
+#terceira-parte {
+    height: 300px;
+    width: 100%;
+    margin-top: 15px;
+    border-top: solid 2px #615b2d;
+}
+
+.esquerda {
+    color: #615b2d;
+    width: 45%;
+    float: left;
+    height: 280px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.direita {
+    color: #615b2d;
+    width: 45%;
+    height: 280px;
+    margin-right: 20px;
+    float: right;
+    padding: 10px;
+}
+
+.ajuste {
+    width: 500px;
+    height: 280px;
+    margin-left: 15px;
+}
+
+.formata-texto {
+    margin-top: 20px;
+}
+
+#conteudo-historia h1 {
+    text-align: center;
+    color: #615b2d;
+    margin-top: 20px;
+}
